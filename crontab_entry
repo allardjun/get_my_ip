@@ -1,0 +1,4 @@
+#crontab
+
+
+0 10 * * * /Users/jun/git/pub/get_my_ip/get_my_ip_ricotta.py
